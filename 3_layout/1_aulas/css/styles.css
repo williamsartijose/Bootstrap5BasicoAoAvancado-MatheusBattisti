@@ -126,3 +126,14 @@ div {
   height: 50px;
   margin: 0;
 }
+
+
+/* aula de offset */
+#offset .row {
+  height: 100px;
+}
+
+.col-md-3 {
+  border: 2px dashed red;
+  height: 50px;
+}
