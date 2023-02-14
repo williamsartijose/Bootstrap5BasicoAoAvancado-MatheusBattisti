@@ -137,3 +137,16 @@ div {
   border: 2px dashed red;
   height: 50px;
 }
+
+/* Gutter */
+#gutter .row {
+  height: 200px;
+}
+
+#gutter .col-6 {
+  margin: auto;
+}
+
+.row p {
+  border: 2px solid green;
+}
