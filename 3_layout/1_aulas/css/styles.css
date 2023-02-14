@@ -97,3 +97,20 @@ div {
   height: 100%;
   margin: 0;
 }
+
+/* aula 9 - align vert */
+
+#vertical {
+  height: 250px;
+  border-color: coral;
+}
+
+#vertical .row {
+  height: 100%;
+}
+
+.col-6 {
+  border: 2px dashed red;
+  height: 50px;
+  margin: 0;
+}
