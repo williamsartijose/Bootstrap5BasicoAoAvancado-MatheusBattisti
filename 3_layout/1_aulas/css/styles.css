@@ -41,4 +41,32 @@ h1 {
       color: teal;
     }
   }
-  
+  /* aula 4 - .container */
+
+div {
+  margin: 40px 0;
+}
+
+.container {
+  border: 2px solid red;
+}
+
+/* aula 5 - .container-fluid*/
+
+.container-fluid {
+  border: 2px solid purple;
+}
+
+/* aula 6 - .container-x*/
+
+.container-sm {
+  border: 2px solid blue;
+}
+
+.container-md {
+  border: 2px solid crimson;
+}
+
+.container-lg {
+  border: 2px solid chocolate;
+}
