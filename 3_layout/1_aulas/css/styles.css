@@ -70,3 +70,23 @@ div {
 .container-lg {
   border: 2px solid chocolate;
 }
+
+/* aula 7 - grid */
+
+.container {
+  border: 5px dotted blue;
+  padding: 5px;
+}
+
+.row {
+  border: 5px solid purple;
+  height: 100px;
+  padding: 5px;
+  margin: 0;
+}
+
+.col {
+  border: 2px dashed red;
+  height: 100%;
+  margin: 0;
+}
