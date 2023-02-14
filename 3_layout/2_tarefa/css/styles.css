@@ -1,0 +1,12 @@
+/* aula 1 - nosso css */
+.col {
+  height: 50px;
+  border: 1px solid pink;
+}
+.pares {
+  background-color: aquamarine;
+}
+
+.impares{
+  background-color: blueviolet;
+}
