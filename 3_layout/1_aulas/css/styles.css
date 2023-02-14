@@ -114,3 +114,15 @@ div {
   height: 50px;
   margin: 0;
 }
+
+/* aula 10 -alinhamento horizontal */
+
+#gutter .col-6 {
+  margin: 0;
+}
+
+.col-3 {
+  border: 2px dashed red;
+  height: 50px;
+  margin: 0;
+}
