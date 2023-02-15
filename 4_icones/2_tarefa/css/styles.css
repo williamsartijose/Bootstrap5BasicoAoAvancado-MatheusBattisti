@@ -1,12 +1,46 @@
-/* aula 1 - nosso css */
-.col {
-  height: 50px;
-  border: 1px solid pink;
-}
-.pares {
-  background-color: aquamarine;
+.col-12 {
+  padding: 15px;
+  margin: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-.impares{
-  background-color: blueviolet;
+.col-12 i {
+  margin-right: 15px;
+  font-size: 30px;
 }
+
+.facebook {
+  border: 1px solid blue;
+}
+
+.facebook i {
+  color: blue;
+}
+
+.instagram {
+  border: 1px solid purple;
+}
+
+.instagram i {
+  color: purple;
+}
+
+.whatsapp {
+  border: 1px solid green;
+}
+
+.whatsapp i {
+  color: green;
+}
+
+.twitter {
+  border: 1px solid cornflowerblue;
+}
+
+.twitter i {
+  color: cornflowerblue;
+}
+
+
